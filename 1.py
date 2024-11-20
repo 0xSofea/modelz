@@ -31,3 +31,4 @@
         plt.close(fig)
         if on_plot:
             on_plot(plot_fname)
+
